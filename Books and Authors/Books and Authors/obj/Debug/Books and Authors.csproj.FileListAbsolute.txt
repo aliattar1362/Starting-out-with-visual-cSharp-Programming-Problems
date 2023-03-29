@@ -1,0 +1,11 @@
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\bin\Debug\Books and Authors.exe.config
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\bin\Debug\Books and Authors.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\bin\Debug\Books and Authors.pdb
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\obj\Debug\Books and Authors.csproj.AssemblyReference.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\obj\Debug\Books and Authors.csproj.SuggestedBindingRedirects.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\obj\Debug\Books_and_Authors.Form1.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\obj\Debug\Books_and_Authors.Properties.Resources.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\obj\Debug\Books and Authors.csproj.GenerateResource.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\obj\Debug\Books and Authors.csproj.CoreCompileInputs.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\obj\Debug\Books and Authors.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Books and Authors\Books and Authors\obj\Debug\Books and Authors.pdb
