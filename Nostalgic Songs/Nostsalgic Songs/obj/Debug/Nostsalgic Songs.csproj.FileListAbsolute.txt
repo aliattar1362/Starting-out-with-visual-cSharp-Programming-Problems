@@ -1,0 +1,11 @@
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\bin\Debug\Nostsalgic Songs.exe.config
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\bin\Debug\Nostsalgic Songs.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\bin\Debug\Nostsalgic Songs.pdb
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\obj\Debug\Nostsalgic Songs.csproj.AssemblyReference.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\obj\Debug\Nostsalgic Songs.csproj.SuggestedBindingRedirects.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\obj\Debug\Nostsalgic_Songs.Form1.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\obj\Debug\Nostsalgic_Songs.Properties.Resources.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\obj\Debug\Nostsalgic Songs.csproj.GenerateResource.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\obj\Debug\Nostsalgic Songs.csproj.CoreCompileInputs.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\obj\Debug\Nostsalgic Songs.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Nostsalgic Songs\Nostsalgic Songs\obj\Debug\Nostsalgic Songs.pdb
