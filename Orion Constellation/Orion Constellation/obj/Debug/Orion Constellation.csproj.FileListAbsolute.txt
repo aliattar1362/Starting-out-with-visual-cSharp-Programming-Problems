@@ -1,0 +1,11 @@
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\bin\Debug\Orion Constellation.exe.config
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\bin\Debug\Orion Constellation.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\bin\Debug\Orion Constellation.pdb
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.csproj.AssemblyReference.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.csproj.SuggestedBindingRedirects.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\obj\Debug\Orion_Constellation.Form1.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\obj\Debug\Orion_Constellation.Properties.Resources.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.csproj.GenerateResource.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.csproj.CoreCompileInputs.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.pdb
