@@ -1,0 +1,11 @@
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\bin\Debug\Head or Tails.exe.config
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\bin\Debug\Head or Tails.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\bin\Debug\Head or Tails.pdb
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\obj\Debug\Head or Tails.csproj.AssemblyReference.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\obj\Debug\Head or Tails.csproj.SuggestedBindingRedirects.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\obj\Debug\Head_or_Tails.Form1.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\obj\Debug\Head_or_Tails.Properties.Resources.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\obj\Debug\Head or Tails.csproj.GenerateResource.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\obj\Debug\Head or Tails.csproj.CoreCompileInputs.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\obj\Debug\Head or Tails.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Head or Tails\Head or Tails\obj\Debug\Head or Tails.pdb
