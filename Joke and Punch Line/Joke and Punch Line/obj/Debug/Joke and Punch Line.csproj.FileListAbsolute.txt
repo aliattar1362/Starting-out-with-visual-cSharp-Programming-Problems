@@ -1,0 +1,11 @@
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\bin\Debug\Joke and Punch Line.exe.config
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\bin\Debug\Joke and Punch Line.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\bin\Debug\Joke and Punch Line.pdb
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.csproj.AssemblyReference.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.csproj.SuggestedBindingRedirects.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke_and_Punch_Line.Form1.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke_and_Punch_Line.Properties.Resources.resources
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.csproj.GenerateResource.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.csproj.CoreCompileInputs.cache
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.exe
+D:\cSharp\Starting out with visual cSharp\Practices\ch2\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.pdb
